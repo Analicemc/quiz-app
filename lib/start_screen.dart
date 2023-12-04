@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class LoginPanel extends StatelessWidget {
-  const LoginPanel({Key? key}) : super(key: key);
+class StartScreen extends StatelessWidget {
+  const StartScreen({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return Center(
